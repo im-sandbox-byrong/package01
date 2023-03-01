@@ -1,3 +1,5 @@
 {
-  "your": "json config here"
+  "name": "nodejs-test-package",
+  "version": "1.0.0",
+  "author": "Byron G <email@example.com>"
 }
